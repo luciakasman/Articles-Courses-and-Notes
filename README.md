@@ -9,3 +9,6 @@ Different things that I find useful and/or cool.
 
 ### Soft Skills 
 * [This really cool article about Impostor Syndrome](https://compiler.triplebyte.com/blog/how-to-evaluate-impostor-syndrome-with-data-and-then-architect-a-foundation-of-confidence?ref=ssnews_blog)
+
+### Random but interesting
+* [You and Your Research - Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
