@@ -9,6 +9,7 @@ Different things that I find useful and/or cool.
 
 ### Soft Skills 
 * [This really cool article about Impostor Syndrome](https://compiler.triplebyte.com/blog/how-to-evaluate-impostor-syndrome-with-data-and-then-architect-a-foundation-of-confidence?ref=ssnews_blog)
+* [The Myth of the Genius Programmer - Oz Lopez](https://medium.com/@oz.lopez/the-myth-of-the-genius-programmer-9381a884591e)
 
 ### Random but interesting
 * [You and Your Research - Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
