@@ -1,6 +1,9 @@
 # Articles, Courses and Notes
 Different things that I find useful and/or cool. 
 
+### Tech recommendations
+* [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices)
+
 ### Articles about STEM
 * [The Unreasonable Effectiveness of Recurrent Neural Networks - Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
